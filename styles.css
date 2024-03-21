@@ -1,2 +1,15 @@
-
+*{
+	font-family: sans-serif;
+}
 /* Your CSS Code here. */
+img{
+/* //	width:200px; */
+}
+
+nav>ul>a{
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: 600;
+	color: tomato;
+	text-shadow: 2px 2px 4px rgb(0,0,0,0.2);
+}
